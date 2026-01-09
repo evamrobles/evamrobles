@@ -1,7 +1,4 @@
 ## Hi there 🪩
-- My name is Eva Robles, I'm currently learning more about Python and what this language can help me with while in school.
-
- - Pronouns: she/her
 
  
 <!--
